@@ -29,7 +29,7 @@ An AI assistant project focused on providing an interactive assistant experience
 
 ## 🌐 Connect With Me
 
-- **GitHub:** Add your GitHub profile URL
+- **GitHub:** https://github.com/choudharyamangurjar0-cyber
 - **Email:** choudharyamangurjar0@gmail.com
 
 ---
